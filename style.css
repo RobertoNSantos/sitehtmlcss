@@ -1,4 +1,4 @@
-p{text-decoration-color: azure;
+p{font-style: color;
   
 
 }
@@ -6,4 +6,4 @@ footer{
     background-color: crimson;
 }
 
-body{background-color: black;}
+body{background-color: rgb(207, 201, 201);}
