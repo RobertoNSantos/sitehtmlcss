@@ -1,8 +1,10 @@
 p{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
 #dois{
     text-align: center;
 }  
+
 .um{
     color: rgb(15, 49, 64);
     font-family: 'Times New Roman', Times, serif;
@@ -11,13 +13,14 @@ p{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 footer{
     background-color: rgb(9, 40, 54);
 }
+
 .footer{
     color: rgb(218, 225, 230);
 }
+
 body{background-color: rgb(165, 185, 194);}
 
 
 h1{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
 }
